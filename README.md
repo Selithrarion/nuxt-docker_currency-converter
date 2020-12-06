@@ -1,1 +1,1 @@
-# nuxt_currency-converter
+# nuxt-docker_currency-converter

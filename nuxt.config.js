@@ -3,8 +3,8 @@ import colors from 'vuetify/es5/util/colors';
 export default {
 	// Global page headers (https://go.nuxtjs.dev/config-head)
 	head: {
-		titleTemplate: '%s - nuxt_currency-converter',
-		title: 'nuxt_currency-converter',
+		titleTemplate: '%s - nuxt-docker_currency-converter',
+		title: 'nuxt-docker_currency-converter',
 		meta: [
 			{ charset: 'utf-8' },
 			{ name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -39,6 +39,6 @@ export default {
 	build: {},
 	pageTransition: 'fade-transition',
 	env: {
-		appName: 'Nuxt Currency Converter',
+		appName: 'Nuxt Docker Currency Converter',
 	},
 };
